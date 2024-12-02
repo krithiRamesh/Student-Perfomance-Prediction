@@ -107,7 +107,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Hema Kalyan Murapaka - [@kalyanmurapaka274@gmail.com](kalyanmurapaka274@gmail.com)
+Hema Kalyan Murapaka - [@krithiramesh918@gmail.com](krithiramesh918@gmail.com)
 
 
 ## Acknowledgements
