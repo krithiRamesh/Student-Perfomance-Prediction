@@ -100,14 +100,11 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch
 5. Open a Pull Request
 
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 ## Contact
 
-Hema Kalyan Murapaka - [@krithiramesh918@gmail.com](krithiramesh918@gmail.com)
+krithiRamesh - [@krithiramesh918@gmail.com](krithiramesh918@gmail.com)
 
 
 ## Acknowledgements
